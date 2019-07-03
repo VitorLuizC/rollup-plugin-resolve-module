@@ -1,4 +1,4 @@
-> ## [[libraryNameWithSpacesAndUpperCases]](README.md)
+> ## [rollup-plugin-resolve-module](README.md)
 
 ### Index
 

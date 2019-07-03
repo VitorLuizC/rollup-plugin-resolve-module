@@ -1,12 +1,12 @@
 /*!
- * [libraryName] v0.0.0
- * (c) [authorFullName]
+ * rollup-plugin-resolve-module v0.0.0
+ * (c) Vitor Luiz Cavalcanti
  * Released under the MIT License.
  */
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
   typeof define === 'function' && define.amd ? define(['exports'], factory) :
-  (global = global || self, factory(global['[libraryCammelCaseName]'] = {}));
+  (global = global || self, factory(global['rollupPluginResolveModule'] = {}));
 }(this, function (exports) { 'use strict';
 
   /**
