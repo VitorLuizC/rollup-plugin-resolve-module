@@ -4,8 +4,7 @@ const configuration: Configuration = {
   banner: true,
   input: 'src/index.ts',
   output: {
-    format: ['es', 'cjs', 'umd', 'umd-min'],
-    moduleName: 'rollupPluginResolveModule',
+    format: ['es', 'cjs'],
     sourceMap: true
   },
   babel: {

@@ -1,8 +1,0 @@
-{
-  "out": "./docs",
-  "mode": "file",
-  "name": "rollup-plugin-resolve-module",
-  "theme": "markdown",
-  "readme": "none",
-  "module": "es2015"
-}
